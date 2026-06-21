@@ -1,0 +1,7 @@
+path: /content/Data/Data_ready
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 1
+names: ['person']

@@ -1,0 +1,1 @@
+Images folder will contain pairs of image and annotation.txt

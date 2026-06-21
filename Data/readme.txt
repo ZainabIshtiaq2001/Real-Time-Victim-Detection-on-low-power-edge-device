@@ -1,0 +1,1 @@
+the DATA folder contains all frames along with annotated files(yolo/VOC format)
