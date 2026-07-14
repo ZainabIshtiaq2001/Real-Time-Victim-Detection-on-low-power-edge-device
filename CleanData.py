@@ -1,3 +1,7 @@
+'''
+This script cleans your Images folder by extracting pairs of annotated txt file + jpg img to a destination "Data" folder.
+'''
+
 import os
 import shutil
 
