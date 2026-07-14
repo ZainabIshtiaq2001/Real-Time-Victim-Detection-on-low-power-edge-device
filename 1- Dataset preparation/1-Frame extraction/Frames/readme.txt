@@ -1,0 +1,3 @@
+Frames will contain extracted frames labelled as:
+frame_0000
+frame_0001...
